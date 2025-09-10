@@ -1,9 +1,9 @@
 # collapse-chatgpt-extension
 a ready-to-install Chrome extension that toggles collapse/restore of ChatGPT’s replies on the current tab with a single click
+Important: might not work on ChatGPT 6 and onwards
 
 
-
-How to install
+#How to install
 
 Unzip it somewhere convenient.
 
@@ -15,7 +15,7 @@ Click Load unpacked → select the unzipped collapse-chatgpt-extension folder.
 
 
 
-How it works
+#How it works
 
 Click the toolbar icon on a ChatGPT tab:
 
